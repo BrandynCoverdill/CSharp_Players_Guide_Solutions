@@ -23,3 +23,15 @@ Using the assembly, the **Common Language Runtime (CLR)**, brain of .NET, will:
 
 The BCL is a set of libraries that comprise of the `System.*` namespace.
 
+# Chapter 4
+
+## Comments
+
+Here are some suggestings for making good use of comments:
+
+- Do not let TODO or reminder comments or commented-out code last long.
+- Don't add comments to code that can quickly be understand by gleaning over it quickly.
+- Write comments roughly at the same time as you write the code.
+- Find a balance in how much you comment. Not too little and not too much.
+- Don't use comments to excuse hard code.
+	- Make the code easy to understand, then add just enough comments to claify any important but unobvious details. 
